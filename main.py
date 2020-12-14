@@ -21,8 +21,6 @@
         return i
     elif j:
         return j
-    elif k:
-        return k
 
 def test2():
     if a:
@@ -39,5 +37,3 @@ def test2():
         return f
     elif g:
         return g
-    elif h:
-        return h
